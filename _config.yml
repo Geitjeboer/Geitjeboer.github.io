@@ -1,10 +1,10 @@
 # Site settings
-title: Porfolio
+title: Jeremy Jex
 email: goat.farmer@gmail.com
 url: https://github.com/Geitjeboer/JeremyJex.github.io#
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "Data Scientist, Healthcare"
-skills: "Data Science, Healthcare, python, SQL, Machine Learning, Statistics, Excel, Git"
+description: "A data science with over a decade of teaching and healthcare experience. Also skilled in statistical modeling, machine learning, and data manipulation. Uses data science to improve client outcomes. Speaks Dutch, Spanish, Chinese, and French."
+keywords: "Data Science, Healthcare, Statistical Analysis, Machine Learning, Data Wrangling, SQL, Python, SciKit Learn, Pandas, Spark, PySpark, Excel, Data Storytelling"
+skills: "Data Science | Healthcare | Statistical Analysis | Machine Learning | Data Wrangling | SQL | Python | SciKit Learn | Pandas | Spark | PySpark | Excel | Data Storytelling"
 meta_author: Jex Jeremy
 
 # Google webmaster tools
@@ -25,8 +25,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 80B3FF
+  primary-rgb: "128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
